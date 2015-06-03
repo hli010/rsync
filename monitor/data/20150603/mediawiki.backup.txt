@@ -1,0 +1,8 @@
+start at 2015-06-03 00:36:24 on portland.cn.atrenta.com
+2015-06-02 16:36:24: mediawiki-media (ID 128275) 5 pages (69.5|69.5/sec all|curr), 100 revs (1390.5|1390.5/sec all|curr), ETA 2015-06-02 16:36:24 [max 315]
+2015-06-02 16:36:24: mediawiki-media (ID 128275) 17 pages (150.5|414.1/sec all|curr), 200 revs (1770.4|2436.0/sec all|curr), ETA 2015-06-02 16:36:24 [max 315]
+2015-06-02 16:36:24: mediawiki-media (ID 128275) 39 pages (145.9|252.8/sec all|curr), 300 revs (1122.5|648.1/sec all|curr), ETA 2015-06-02 16:36:24 [max 315]
+2015-06-02 16:36:24: mediawiki-media (ID 128275) 43 pages (157.5|7411.3/sec all|curr), 315 revs (1153.6|2585.4/sec all|curr), ETA 2015-06-02 16:36:24 [max 315]
+tar: Removing leading `/' from member names
+end   at 2015-06-03 00:36:25 on portland.cn.atrenta.com
+   TIME_CONSUME IS: 1 SECONDS.

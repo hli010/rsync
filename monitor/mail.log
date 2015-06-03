@@ -1,0 +1,12 @@
+
+PHP Notice:  Undefined index: date in /var/www/ds/mail.php on line 17
+<html> <head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" >
+<link rel="stylesheet" type="text/css" href="./main.css" media="all"> 
+<script type="text/javascript" src="./main.js"></script>
+<script type="text/javascript" src="./jquery.js"></script>
+<script type="text/javascript" src="./table.js"></script>
+<link rel="stylesheet" type="text/css" href="./table.css" media="all"><title>Nextop-Atrenta Data Sync Monitor - 20150526</title> </head> <body><h1 align="center"> <a href=http://portland.cn.atrenta.com/ds//index.php?date=20150526> Data Sync <font color=red>FAILED</font> on 20150526. </a> </h1><p align=center>   <font size=5 color=red> No data found on 20150526!</font>  </p></table><p> </p> <hr>
+<div class="legal1" align="CENTER">Copyright (C) 2006-2015<a href="http://www.atrenta.com/">Atrenta Inc.</a>  All rights reserved. </div>
+</body>
+</html> 

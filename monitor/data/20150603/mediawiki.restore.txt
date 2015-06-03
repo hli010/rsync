@@ -1,0 +1,36 @@
+washington.cn.atrenta.com: start at 2015-06-03 00:36:26 on washington.cn.atrenta.com
+washington.cn.atrenta.com: PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity "/var/www/wiki_backup/languages/data/plurals.xml" in /var/www/wiki_backup/includes/cache/LocalisationCache.php on line 651
+washington.cn.atrenta.com: PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity "/var/www/wiki_backup/languages/data/plurals-mediawiki.xml" in /var/www/wiki_backup/includes/cache/LocalisationCache.php on line 651
+washington.cn.atrenta.com: PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity "/var/www/wiki_backup/languages/data/plurals.xml" in /var/www/wiki_backup/includes/cache/LocalisationCache.php on line 651
+washington.cn.atrenta.com: PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity "/var/www/wiki_backup/languages/data/plurals-mediawiki.xml" in /var/www/wiki_backup/includes/cache/LocalisationCache.php on line 651
+washington.cn.atrenta.com: PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity "/var/www/wiki_backup/languages/data/plurals.xml" in /var/www/wiki_backup/includes/cache/LocalisationCache.php on line 651
+washington.cn.atrenta.com: PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity "/var/www/wiki_backup/languages/data/plurals-mediawiki.xml" in /var/www/wiki_backup/includes/cache/LocalisationCache.php on line 651
+washington.cn.atrenta.com: Done!
+washington.cn.atrenta.com: You might want to run rebuildrecentchanges.php to regenerate RecentChanges
+washington.cn.atrenta.com: Import Images
+washington.cn.atrenta.com: 
+washington.cn.atrenta.com: Importing 307px-Release.png...done.
+washington.cn.atrenta.com: Importing 614px-Release.png...done.
+washington.cn.atrenta.com: Importing 180px-Release.png...done.
+washington.cn.atrenta.com: Importing 270px-Release.png...done.
+washington.cn.atrenta.com: Importing 360px-Release.png...done.
+washington.cn.atrenta.com: Importing 460px-Release.png...done.
+washington.cn.atrenta.com: Importing 61px-Release.png...done.
+washington.cn.atrenta.com: Release.png exists, skipping
+washington.cn.atrenta.com: 
+washington.cn.atrenta.com: Found: 8
+washington.cn.atrenta.com: Added: 7
+washington.cn.atrenta.com: Skipped: 1
+washington.cn.atrenta.com: Using single-query mode...
+washington.cn.atrenta.com: Done!
+washington.cn.atrenta.com: Loading from page and revision tables...
+washington.cn.atrenta.com: $wgRCMaxAge=7862400 (91 days)
+washington.cn.atrenta.com: Updating links and size differences...
+washington.cn.atrenta.com: Loading from user, page, and logging tables...
+washington.cn.atrenta.com: Flagging bot account edits...
+washington.cn.atrenta.com: Flagging auto-patrolled edits...
+washington.cn.atrenta.com: Deleting feed timestamps.
+washington.cn.atrenta.com: Done.
+washington.cn.atrenta.com: end   at 2015-06-03 00:36:32 on washington.cn.atrenta.com
+washington.cn.atrenta.com:    TIME_CONSUME IS: 6 SECONDS.
+washington.cn.atrenta.com:   please access http://washington.cn.atrenta.com/wiki_backup/ for detail.

@@ -1,0 +1,6 @@
+start at 2015-06-03 00:33:09 on portland.cn.atrenta.com
+dumping /n/rsync/rsync/mantis/mysql.all
+-- Warning: Skipping the data of table mysql.event. Specify the --events option explicitly.
+dumping /n/rsync/rsync/mantis/mysql.bugtracker
+end   at 2015-06-03 00:33:15 on portland.cn.atrenta.com
+   TIME_CONSUME IS: 6 SECONDS.

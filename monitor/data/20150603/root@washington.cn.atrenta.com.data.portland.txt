@@ -1,0 +1,572 @@
+opening connection using: ssh -l root washington.cn.atrenta.com rsync --server -vvlogDtprze.iLsf --delete --partial . /var/www/ds/data/ 
+sending incremental file list
+delta-transmission enabled
+./
+20150513/root@washington.cn.atrenta.com.doc.portland.log is uptodate
+20150513/root@washington.cn.atrenta.com.doc.portland.txt is uptodate
+20150513/root@washington.cn.atrenta.com.qmerge.portland.log is uptodate
+20150513/root@washington.cn.atrenta.com.qmerge.portland.txt is uptodate
+20150513/summary.txt is uptodate
+20150513/summary.washington.txt is uptodate
+20150514/heng@wushi.atrenta.com.git.portland.txt is uptodate
+20150514/root@washington.cn.atrenta.com.CI.portland.txt is uptodate
+20150514/root@washington.cn.atrenta.com.cvs.portland.txt is uptodate
+20150514/root@washington.cn.atrenta.com.doc.portland.txt is uptodate
+20150514/root@washington.cn.atrenta.com.exe.portland.txt is uptodate
+20150514/root@washington.cn.atrenta.com.git.portland.txt is uptodate
+20150514/root@washington.cn.atrenta.com.license.portland.txt is uptodate
+20150514/root@washington.cn.atrenta.com.mantis.portland.txt is uptodate
+20150514/root@washington.cn.atrenta.com.ndbs.portland.txt is uptodate
+20150514/root@washington.cn.atrenta.com.python279.portland.txt is uptodate
+20150514/root@washington.cn.atrenta.com.qmerge.portland.txt is uptodate
+20150514/root@washington.cn.atrenta.com.release.portland.txt is uptodate
+20150514/root@washington.cn.atrenta.com.tars.portland.txt is uptodate
+20150514/summary.washington.txt is uptodate
+20150514/summary.wasington.txt is uptodate
+20150515/bakcup.list is uptodate
+20150515/creatdir.sh is uptodate
+20150515/heng@wushi.atrenta.com.cvs.portland.txt is uptodate
+20150515/heng@wushi.atrenta.com.git.portland.txt is uptodate
+20150515/root@washington.cn.atrenta.com.CI.portland.txt is uptodate
+20150515/root@washington.cn.atrenta.com.cvs.portland.txt is uptodate
+20150515/root@washington.cn.atrenta.com.doc.portland.txt is uptodate
+20150515/root@washington.cn.atrenta.com.exe.portland.txt is uptodate
+20150515/root@washington.cn.atrenta.com.git.portland.txt is uptodate
+20150515/root@washington.cn.atrenta.com.infra.portland.txt is uptodate
+20150515/root@washington.cn.atrenta.com.license.portland.txt is uptodate
+20150515/root@washington.cn.atrenta.com.mantis.portland.txt is uptodate
+20150515/root@washington.cn.atrenta.com.ndbs.portland.txt is uptodate
+20150515/root@washington.cn.atrenta.com.python279.portland.txt is uptodate
+20150515/root@washington.cn.atrenta.com.qmerge.portland.txt is uptodate
+20150515/root@washington.cn.atrenta.com.release.portland.txt is uptodate
+20150515/root@washington.cn.atrenta.com.snapshot.portland.txt is uptodate
+20150515/root@washington.cn.atrenta.com.tars.portland.txt is uptodate
+20150515/rsync.sh is uptodate
+20150515/summary.washington.txt is uptodate
+20150516/heng@wushi.atrenta.com.cvs.portland.txt is uptodate
+20150516/heng@wushi.atrenta.com.git.portland.txt is uptodate
+20150516/root@washington.cn.atrenta.com.CI.portland.txt is uptodate
+20150516/root@washington.cn.atrenta.com.cvs.portland.txt is uptodate
+20150516/root@washington.cn.atrenta.com.doc.portland.txt is uptodate
+20150516/root@washington.cn.atrenta.com.exe.portland.txt is uptodate
+20150516/root@washington.cn.atrenta.com.git.portland.txt is uptodate
+20150516/root@washington.cn.atrenta.com.infra.portland.txt is uptodate
+20150516/root@washington.cn.atrenta.com.license.portland.txt is uptodate
+20150516/root@washington.cn.atrenta.com.mantis.portland.txt is uptodate
+20150516/root@washington.cn.atrenta.com.ndbs.portland.txt is uptodate
+20150516/root@washington.cn.atrenta.com.python279.portland.txt is uptodate
+20150516/root@washington.cn.atrenta.com.qmerge.portland.txt is uptodate
+20150516/root@washington.cn.atrenta.com.release.portland.txt is uptodate
+20150516/root@washington.cn.atrenta.com.snapshot.portland.txt is uptodate
+20150516/root@washington.cn.atrenta.com.tars.portland.txt is uptodate
+20150516/summary.washington.txt is uptodate
+20150517/heng@wushi.atrenta.com.cvs.portland.txt is uptodate
+20150517/heng@wushi.atrenta.com.git.portland.txt is uptodate
+20150517/root@washington.cn.atrenta.com.CI.portland.txt is uptodate
+20150517/root@washington.cn.atrenta.com.cvs.portland.txt is uptodate
+20150517/root@washington.cn.atrenta.com.doc.portland.txt is uptodate
+20150517/root@washington.cn.atrenta.com.exe.portland.txt is uptodate
+20150517/root@washington.cn.atrenta.com.git.portland.txt is uptodate
+20150517/root@washington.cn.atrenta.com.infra.portland.txt is uptodate
+20150517/root@washington.cn.atrenta.com.license.portland.txt is uptodate
+20150517/root@washington.cn.atrenta.com.mantis.portland.txt is uptodate
+20150517/root@washington.cn.atrenta.com.ndbs.portland.txt is uptodate
+20150517/root@washington.cn.atrenta.com.python279.portland.txt is uptodate
+20150517/root@washington.cn.atrenta.com.qmerge.portland.txt is uptodate
+20150517/root@washington.cn.atrenta.com.release.portland.txt is uptodate
+20150517/root@washington.cn.atrenta.com.snapshot.portland.txt is uptodate
+20150517/root@washington.cn.atrenta.com.tars.portland.txt is uptodate
+20150517/summary.washington.txt is uptodate
+20150518/heng@wushi.atrenta.com.cvs.portland.txt is uptodate
+20150518/heng@wushi.atrenta.com.git.portland.txt is uptodate
+20150518/root@washington.cn.atrenta.com.CI.portland.txt is uptodate
+20150518/root@washington.cn.atrenta.com.cvs.portland.txt is uptodate
+20150518/root@washington.cn.atrenta.com.doc.portland.txt is uptodate
+20150518/root@washington.cn.atrenta.com.exe.portland.txt is uptodate
+20150518/root@washington.cn.atrenta.com.git.portland.txt is uptodate
+20150518/root@washington.cn.atrenta.com.infra.portland.txt is uptodate
+20150518/root@washington.cn.atrenta.com.license.portland.txt is uptodate
+20150518/root@washington.cn.atrenta.com.mantis.portland.txt is uptodate
+20150518/root@washington.cn.atrenta.com.ndbs.portland.txt is uptodate
+20150518/root@washington.cn.atrenta.com.python279.portland.txt is uptodate
+20150518/root@washington.cn.atrenta.com.qmerge.portland.txt is uptodate
+20150518/root@washington.cn.atrenta.com.release.portland.txt is uptodate
+20150518/root@washington.cn.atrenta.com.snapshot.portland.txt is uptodate
+20150518/root@washington.cn.atrenta.com.tars.portland.txt is uptodate
+20150518/summary.washington.txt is uptodate
+20150519/heng@wushi.atrenta.com.cvs.portland.txt is uptodate
+20150519/heng@wushi.atrenta.com.git.portland.txt is uptodate
+20150519/root@washington.cn.atrenta.com.CI.portland.txt is uptodate
+20150519/root@washington.cn.atrenta.com.cvs.portland.txt is uptodate
+20150519/root@washington.cn.atrenta.com.doc.portland.txt is uptodate
+20150519/root@washington.cn.atrenta.com.exe.portland.txt is uptodate
+20150519/root@washington.cn.atrenta.com.git.portland.txt is uptodate
+20150519/root@washington.cn.atrenta.com.infra.portland.txt is uptodate
+20150519/root@washington.cn.atrenta.com.license.portland.txt is uptodate
+20150519/root@washington.cn.atrenta.com.mantis.portland.txt is uptodate
+20150519/root@washington.cn.atrenta.com.ndbs.portland.txt is uptodate
+20150519/root@washington.cn.atrenta.com.python279.portland.txt is uptodate
+20150519/root@washington.cn.atrenta.com.qmerge.portland.txt is uptodate
+20150519/root@washington.cn.atrenta.com.release.portland.txt is uptodate
+20150519/root@washington.cn.atrenta.com.snapshot.portland.txt is uptodate
+20150519/root@washington.cn.atrenta.com.tars.portland.txt is uptodate
+20150519/summary.washington.txt is uptodate
+20150520/heng@wushi.atrenta.com.cvs.portland.txt is uptodate
+20150520/heng@wushi.atrenta.com.git.portland.txt is uptodate
+20150520/root@washington.cn.atrenta.com.CI.portland.txt is uptodate
+20150520/root@washington.cn.atrenta.com.cvs.portland.txt is uptodate
+20150520/root@washington.cn.atrenta.com.doc.portland.txt is uptodate
+20150520/root@washington.cn.atrenta.com.exe.portland.txt is uptodate
+20150520/root@washington.cn.atrenta.com.git.portland.txt is uptodate
+20150520/root@washington.cn.atrenta.com.infra.portland.txt is uptodate
+20150520/root@washington.cn.atrenta.com.license.portland.txt is uptodate
+20150520/root@washington.cn.atrenta.com.mantis.portland.txt is uptodate
+20150520/root@washington.cn.atrenta.com.ndbs.portland.txt is uptodate
+20150520/root@washington.cn.atrenta.com.python279.portland.txt is uptodate
+20150520/root@washington.cn.atrenta.com.qmerge.portland.txt is uptodate
+20150520/root@washington.cn.atrenta.com.release.portland.txt is uptodate
+20150520/root@washington.cn.atrenta.com.snapshot.portland.txt is uptodate
+20150520/root@washington.cn.atrenta.com.tars.portland.txt is uptodate
+20150520/root@washington.cn.atrenta.com.verific.portland.txt is uptodate
+20150520/summary.washington.txt is uptodate
+20150521/heng@wushi.atrenta.com.cvs.portland.txt is uptodate
+20150521/heng@wushi.atrenta.com.git.portland.txt is uptodate
+20150521/root@washington.cn.atrenta.com.CI.portland.txt is uptodate
+20150521/root@washington.cn.atrenta.com.cvs.portland.txt is uptodate
+20150521/root@washington.cn.atrenta.com.doc.portland.txt is uptodate
+20150521/root@washington.cn.atrenta.com.exe.portland.txt is uptodate
+20150521/root@washington.cn.atrenta.com.git.portland.txt is uptodate
+20150521/root@washington.cn.atrenta.com.infra.portland.txt is uptodate
+20150521/root@washington.cn.atrenta.com.license.portland.txt is uptodate
+20150521/root@washington.cn.atrenta.com.mantis.portland.txt is uptodate
+20150521/root@washington.cn.atrenta.com.ndbs.portland.txt is uptodate
+20150521/root@washington.cn.atrenta.com.python279.portland.txt is uptodate
+20150521/root@washington.cn.atrenta.com.qmerge.portland.txt is uptodate
+20150521/root@washington.cn.atrenta.com.release.portland.txt is uptodate
+20150521/root@washington.cn.atrenta.com.snapshot.portland.txt is uptodate
+20150521/root@washington.cn.atrenta.com.tars.portland.txt is uptodate
+20150521/root@washington.cn.atrenta.com.verific.portland.txt is uptodate
+20150521/summary.washington.txt is uptodate
+20150522/heng@wushi.atrenta.com.CI.portland.txt is uptodate
+20150522/heng@wushi.atrenta.com.bs2test.portland.txt is uptodate
+20150522/heng@wushi.atrenta.com.cvs.portland.txt is uptodate
+20150522/heng@wushi.atrenta.com.git.portland.txt is uptodate
+20150522/heng@wushi.atrenta.com.infra.portland.txt is uptodate
+20150522/heng@wushi.atrenta.com.license.portland.txt is uptodate
+20150522/heng@wushi.atrenta.com.mantis.portland.txt is uptodate
+20150522/heng@wushi.atrenta.com.ndbs.portland.txt is uptodate
+20150522/heng@wushi.atrenta.com.python279.portland.txt is uptodate
+20150522/heng@wushi.atrenta.com.release.portland.txt is uptodate
+20150522/heng@wushi.atrenta.com.verific.portland.txt is uptodate
+20150522/root@washington.cn.atrenta.com.CI.portland.txt is uptodate
+20150522/root@washington.cn.atrenta.com.cvs.portland.txt is uptodate
+20150522/root@washington.cn.atrenta.com.doc.portland.txt is uptodate
+20150522/root@washington.cn.atrenta.com.exe.portland.txt is uptodate
+20150522/root@washington.cn.atrenta.com.git.portland.txt is uptodate
+20150522/root@washington.cn.atrenta.com.infra.portland.txt is uptodate
+20150522/root@washington.cn.atrenta.com.license.portland.txt is uptodate
+20150522/root@washington.cn.atrenta.com.mantis.portland.txt is uptodate
+20150522/root@washington.cn.atrenta.com.ndbs.portland.txt is uptodate
+20150522/root@washington.cn.atrenta.com.python279.portland.txt is uptodate
+20150522/root@washington.cn.atrenta.com.qmerge.portland.txt is uptodate
+20150522/root@washington.cn.atrenta.com.release.portland.txt is uptodate
+20150522/root@washington.cn.atrenta.com.snapshot.portland.txt is uptodate
+20150522/root@washington.cn.atrenta.com.tars.portland.txt is uptodate
+20150522/root@washington.cn.atrenta.com.verific.portland.txt is uptodate
+20150522/summary.washington.txt is uptodate
+20150523/heng@wushi.atrenta.com.CI.portland.txt is uptodate
+20150523/heng@wushi.atrenta.com.bs2test.portland.txt is uptodate
+20150523/heng@wushi.atrenta.com.cvs.portland.txt is uptodate
+20150523/heng@wushi.atrenta.com.git.portland.txt is uptodate
+20150523/heng@wushi.atrenta.com.infra.portland.txt is uptodate
+20150523/heng@wushi.atrenta.com.license.portland.txt is uptodate
+20150523/heng@wushi.atrenta.com.mantis.portland.txt is uptodate
+20150523/heng@wushi.atrenta.com.ndbs.portland.txt is uptodate
+20150523/heng@wushi.atrenta.com.python279.portland.txt is uptodate
+20150523/heng@wushi.atrenta.com.release.portland.txt is uptodate
+20150523/heng@wushi.atrenta.com.verific.portland.txt is uptodate
+20150523/root@washington.cn.atrenta.com.CI.portland.txt is uptodate
+20150523/root@washington.cn.atrenta.com.cvs.portland.txt is uptodate
+20150523/root@washington.cn.atrenta.com.doc.portland.txt is uptodate
+20150523/root@washington.cn.atrenta.com.exe.portland.txt is uptodate
+20150523/root@washington.cn.atrenta.com.git.portland.txt is uptodate
+20150523/root@washington.cn.atrenta.com.infra.portland.txt is uptodate
+20150523/root@washington.cn.atrenta.com.license.portland.txt is uptodate
+20150523/root@washington.cn.atrenta.com.mantis.portland.txt is uptodate
+20150523/root@washington.cn.atrenta.com.ndbs.portland.txt is uptodate
+20150523/root@washington.cn.atrenta.com.python279.portland.txt is uptodate
+20150523/root@washington.cn.atrenta.com.qmerge.portland.txt is uptodate
+20150523/root@washington.cn.atrenta.com.release.portland.txt is uptodate
+20150523/root@washington.cn.atrenta.com.snapshot.portland.txt is uptodate
+20150523/root@washington.cn.atrenta.com.tars.portland.txt is uptodate
+20150523/root@washington.cn.atrenta.com.verific.portland.txt is uptodate
+20150523/summary.washington.txt is uptodate
+20150524/heng@wushi.atrenta.com.CI.portland.txt is uptodate
+20150524/heng@wushi.atrenta.com.bs2test.portland.txt is uptodate
+20150524/heng@wushi.atrenta.com.cvs.portland.txt is uptodate
+20150524/heng@wushi.atrenta.com.git.portland.txt is uptodate
+20150524/heng@wushi.atrenta.com.infra.portland.txt is uptodate
+20150524/heng@wushi.atrenta.com.license.portland.txt is uptodate
+20150524/heng@wushi.atrenta.com.mantis.portland.txt is uptodate
+20150524/heng@wushi.atrenta.com.ndbs.portland.txt is uptodate
+20150524/heng@wushi.atrenta.com.python279.portland.txt is uptodate
+20150524/heng@wushi.atrenta.com.release.portland.txt is uptodate
+20150524/heng@wushi.atrenta.com.verific.portland.txt is uptodate
+20150524/root@washington.cn.atrenta.com.CI.portland.txt is uptodate
+20150524/root@washington.cn.atrenta.com.cvs.portland.txt is uptodate
+20150524/root@washington.cn.atrenta.com.doc.portland.txt is uptodate
+20150524/root@washington.cn.atrenta.com.exe.portland.txt is uptodate
+20150524/root@washington.cn.atrenta.com.git.portland.txt is uptodate
+20150524/root@washington.cn.atrenta.com.infra.portland.txt is uptodate
+20150524/root@washington.cn.atrenta.com.license.portland.txt is uptodate
+20150524/root@washington.cn.atrenta.com.mantis.portland.txt is uptodate
+20150524/root@washington.cn.atrenta.com.ndbs.portland.txt is uptodate
+20150524/root@washington.cn.atrenta.com.python279.portland.txt is uptodate
+20150524/root@washington.cn.atrenta.com.qmerge.portland.txt is uptodate
+20150524/root@washington.cn.atrenta.com.release.portland.txt is uptodate
+20150524/root@washington.cn.atrenta.com.snapshot.portland.txt is uptodate
+20150524/root@washington.cn.atrenta.com.tars.portland.txt is uptodate
+20150524/root@washington.cn.atrenta.com.verific.portland.txt is uptodate
+20150524/summary.washington.txt is uptodate
+20150525/heng@wushi.atrenta.com.CI.portland.txt is uptodate
+20150525/heng@wushi.atrenta.com.bs2test.portland.txt is uptodate
+20150525/heng@wushi.atrenta.com.cvs.portland.txt is uptodate
+20150525/heng@wushi.atrenta.com.git.portland.txt is uptodate
+20150525/heng@wushi.atrenta.com.infra.portland.txt is uptodate
+20150525/heng@wushi.atrenta.com.license.portland.txt is uptodate
+20150525/heng@wushi.atrenta.com.mantis.portland.txt is uptodate
+20150525/heng@wushi.atrenta.com.ndbs.portland.txt is uptodate
+20150525/heng@wushi.atrenta.com.python279.portland.txt is uptodate
+20150525/heng@wushi.atrenta.com.release.portland.txt is uptodate
+20150525/heng@wushi.atrenta.com.verific.portland.txt is uptodate
+20150525/root@washington.cn.atrenta.com.CI.portland.txt is uptodate
+20150525/root@washington.cn.atrenta.com.cvs.portland.txt is uptodate
+20150525/root@washington.cn.atrenta.com.doc.portland.txt is uptodate
+20150525/root@washington.cn.atrenta.com.exe.portland.txt is uptodate
+20150525/root@washington.cn.atrenta.com.git.portland.txt is uptodate
+20150525/root@washington.cn.atrenta.com.infra.portland.txt is uptodate
+20150525/root@washington.cn.atrenta.com.license.portland.txt is uptodate
+20150525/root@washington.cn.atrenta.com.mantis.portland.txt is uptodate
+20150525/root@washington.cn.atrenta.com.ndbs.portland.txt is uptodate
+20150525/root@washington.cn.atrenta.com.python279.portland.txt is uptodate
+20150525/root@washington.cn.atrenta.com.qmerge.portland.txt is uptodate
+20150525/root@washington.cn.atrenta.com.release.portland.txt is uptodate
+20150525/root@washington.cn.atrenta.com.snapshot.portland.txt is uptodate
+20150525/root@washington.cn.atrenta.com.tars.portland.txt is uptodate
+20150525/root@washington.cn.atrenta.com.verific.portland.txt is uptodate
+20150525/summary.washington.txt is uptodate
+20150526/heng@wushi.atrenta.com.CI.portland.txt is uptodate
+20150526/heng@wushi.atrenta.com.bs2test.portland.txt is uptodate
+20150526/heng@wushi.atrenta.com.cvs.portland.txt is uptodate
+20150526/heng@wushi.atrenta.com.git.portland.txt is uptodate
+20150526/heng@wushi.atrenta.com.infra.portland.txt is uptodate
+20150526/heng@wushi.atrenta.com.license.portland.txt is uptodate
+20150526/heng@wushi.atrenta.com.mantis.portland.txt is uptodate
+20150526/heng@wushi.atrenta.com.ndbs.portland.txt is uptodate
+20150526/heng@wushi.atrenta.com.python279.portland.txt is uptodate
+20150526/heng@wushi.atrenta.com.release.portland.txt is uptodate
+20150526/heng@wushi.atrenta.com.verific.portland.txt is uptodate
+20150526/root@washington.cn.atrenta.com.CI.portland.txt is uptodate
+20150526/root@washington.cn.atrenta.com.cvs.portland.txt is uptodate
+20150526/root@washington.cn.atrenta.com.doc.portland.txt is uptodate
+20150526/root@washington.cn.atrenta.com.exe.portland.txt is uptodate
+20150526/root@washington.cn.atrenta.com.git.portland.txt is uptodate
+20150526/root@washington.cn.atrenta.com.infra.portland.txt is uptodate
+20150526/root@washington.cn.atrenta.com.license.portland.txt is uptodate
+20150526/root@washington.cn.atrenta.com.mantis.portland.txt is uptodate
+20150526/root@washington.cn.atrenta.com.ndbs.portland.txt is uptodate
+20150526/root@washington.cn.atrenta.com.python279.portland.txt is uptodate
+20150526/root@washington.cn.atrenta.com.qmerge.portland.txt is uptodate
+20150526/root@washington.cn.atrenta.com.release.portland.txt is uptodate
+20150526/root@washington.cn.atrenta.com.snapshot.portland.txt is uptodate
+20150526/root@washington.cn.atrenta.com.tars.portland.txt is uptodate
+20150526/root@washington.cn.atrenta.com.verific.portland.txt is uptodate
+20150526/summary.washington.txt is uptodate
+20150527/heng@wushi.atrenta.com.CI.portland.txt is uptodate
+20150527/heng@wushi.atrenta.com.bs2test.portland.txt is uptodate
+20150527/heng@wushi.atrenta.com.cvs.portland.txt is uptodate
+20150527/heng@wushi.atrenta.com.git.portland.txt is uptodate
+20150527/heng@wushi.atrenta.com.infra.portland.txt is uptodate
+20150527/heng@wushi.atrenta.com.license.portland.txt is uptodate
+20150527/heng@wushi.atrenta.com.mantis.portland.txt is uptodate
+20150527/heng@wushi.atrenta.com.ndbs.portland.txt is uptodate
+20150527/heng@wushi.atrenta.com.python279.portland.txt is uptodate
+20150527/heng@wushi.atrenta.com.release.portland.txt is uptodate
+20150527/heng@wushi.atrenta.com.verific.portland.txt is uptodate
+20150527/mail.log is uptodate
+20150527/root@washington.cn.atrenta.com.CI.portland.txt is uptodate
+20150527/root@washington.cn.atrenta.com.cvs.portland.txt is uptodate
+20150527/root@washington.cn.atrenta.com.data.portland.txt is uptodate
+20150527/root@washington.cn.atrenta.com.doc.portland.txt is uptodate
+20150527/root@washington.cn.atrenta.com.exe.portland.txt is uptodate
+20150527/root@washington.cn.atrenta.com.git.portland.txt is uptodate
+20150527/root@washington.cn.atrenta.com.infra.portland.txt is uptodate
+20150527/root@washington.cn.atrenta.com.license.portland.txt is uptodate
+20150527/root@washington.cn.atrenta.com.mantis.portland.txt is uptodate
+20150527/root@washington.cn.atrenta.com.ndbs.portland.txt is uptodate
+20150527/root@washington.cn.atrenta.com.python279.portland.txt is uptodate
+20150527/root@washington.cn.atrenta.com.qmerge.portland.txt is uptodate
+20150527/root@washington.cn.atrenta.com.release.portland.txt is uptodate
+20150527/root@washington.cn.atrenta.com.snapshot.portland.txt is uptodate
+20150527/root@washington.cn.atrenta.com.tars.portland.txt is uptodate
+20150527/root@washington.cn.atrenta.com.verific.portland.txt is uptodate
+20150527/summary.washington.txt is uptodate
+20150528/heng@wushi.atrenta.com.CI.portland.txt is uptodate
+20150528/heng@wushi.atrenta.com.bs2test.portland.txt is uptodate
+20150528/heng@wushi.atrenta.com.cvs.portland.txt is uptodate
+20150528/heng@wushi.atrenta.com.git.portland.txt is uptodate
+20150528/heng@wushi.atrenta.com.infra.portland.txt is uptodate
+20150528/heng@wushi.atrenta.com.license.portland.txt is uptodate
+20150528/heng@wushi.atrenta.com.mantis.portland.txt is uptodate
+20150528/heng@wushi.atrenta.com.ndbs.portland.txt is uptodate
+20150528/heng@wushi.atrenta.com.python279.portland.txt is uptodate
+20150528/heng@wushi.atrenta.com.release.portland.txt is uptodate
+20150528/heng@wushi.atrenta.com.verific.portland.txt is uptodate
+20150528/mail.log is uptodate
+20150528/root@washington.cn.atrenta.com.CI.portland.txt is uptodate
+20150528/root@washington.cn.atrenta.com.cvs.portland.txt is uptodate
+20150528/root@washington.cn.atrenta.com.data.portland.txt is uptodate
+20150528/root@washington.cn.atrenta.com.doc.portland.txt is uptodate
+20150528/root@washington.cn.atrenta.com.exe.portland.txt is uptodate
+20150528/root@washington.cn.atrenta.com.git.portland.txt is uptodate
+20150528/root@washington.cn.atrenta.com.infra.portland.txt is uptodate
+20150528/root@washington.cn.atrenta.com.license.portland.txt is uptodate
+20150528/root@washington.cn.atrenta.com.mantis.portland.txt is uptodate
+20150528/root@washington.cn.atrenta.com.ndbs.portland.txt is uptodate
+20150528/root@washington.cn.atrenta.com.python279.portland.txt is uptodate
+20150528/root@washington.cn.atrenta.com.qmerge.portland.txt is uptodate
+20150528/root@washington.cn.atrenta.com.release.portland.txt is uptodate
+20150528/root@washington.cn.atrenta.com.snapshot.portland.txt is uptodate
+20150528/root@washington.cn.atrenta.com.tars.portland.txt is uptodate
+20150528/root@washington.cn.atrenta.com.verific.portland.txt is uptodate
+20150528/summary.washington.txt is uptodate
+20150529/heng@wushi.atrenta.com.CI.portland.txt is uptodate
+20150529/heng@wushi.atrenta.com.bs2test.portland.txt is uptodate
+20150529/heng@wushi.atrenta.com.cvs.portland.txt is uptodate
+20150529/heng@wushi.atrenta.com.git.portland.txt is uptodate
+20150529/heng@wushi.atrenta.com.infra.portland.txt is uptodate
+20150529/heng@wushi.atrenta.com.license.portland.txt is uptodate
+20150529/heng@wushi.atrenta.com.mantis.portland.txt is uptodate
+20150529/heng@wushi.atrenta.com.ndbs.portland.txt is uptodate
+20150529/heng@wushi.atrenta.com.python279.portland.txt is uptodate
+20150529/heng@wushi.atrenta.com.release.portland.txt is uptodate
+20150529/heng@wushi.atrenta.com.verific.portland.txt is uptodate
+20150529/mail.log is uptodate
+20150529/mantis.backup.txt is uptodate
+20150529/mantis.restore.txt is uptodate
+20150529/mediawiki.backup.txt is uptodate
+20150529/mediawiki.restore.txt is uptodate
+20150529/root@washington.cn.atrenta.com.CI.portland.txt is uptodate
+20150529/root@washington.cn.atrenta.com.cvs.portland.txt is uptodate
+20150529/root@washington.cn.atrenta.com.data.portland.txt is uptodate
+20150529/root@washington.cn.atrenta.com.doc.portland.txt is uptodate
+20150529/root@washington.cn.atrenta.com.exe.portland.txt is uptodate
+20150529/root@washington.cn.atrenta.com.git.portland.txt is uptodate
+20150529/root@washington.cn.atrenta.com.infra.portland.txt is uptodate
+20150529/root@washington.cn.atrenta.com.license.portland.txt is uptodate
+20150529/root@washington.cn.atrenta.com.mantis.portland.txt is uptodate
+20150529/root@washington.cn.atrenta.com.ndbs.portland.txt is uptodate
+20150529/root@washington.cn.atrenta.com.python279.portland.txt is uptodate
+20150529/root@washington.cn.atrenta.com.qmerge.portland.txt is uptodate
+20150529/root@washington.cn.atrenta.com.release.portland.txt is uptodate
+20150529/root@washington.cn.atrenta.com.snapshot.portland.txt is uptodate
+20150529/root@washington.cn.atrenta.com.tars.portland.txt is uptodate
+20150529/root@washington.cn.atrenta.com.verific.portland.txt is uptodate
+20150529/summary.washington.txt is uptodate
+20150530/heng@wushi.atrenta.com.CI.portland.txt is uptodate
+20150530/heng@wushi.atrenta.com.bs2test.portland.txt is uptodate
+20150530/heng@wushi.atrenta.com.cvs.portland.txt is uptodate
+20150530/heng@wushi.atrenta.com.git.portland.txt is uptodate
+20150530/heng@wushi.atrenta.com.infra.portland.txt is uptodate
+20150530/heng@wushi.atrenta.com.license.portland.txt is uptodate
+20150530/heng@wushi.atrenta.com.mantis.portland.txt is uptodate
+20150530/heng@wushi.atrenta.com.ndbs.portland.txt is uptodate
+20150530/heng@wushi.atrenta.com.python279.portland.txt is uptodate
+20150530/heng@wushi.atrenta.com.release.portland.txt is uptodate
+20150530/heng@wushi.atrenta.com.verific.portland.txt is uptodate
+20150530/mail.log is uptodate
+20150530/mantis.backup.txt is uptodate
+20150530/mantis.restore.txt is uptodate
+20150530/mediawiki.backup.txt is uptodate
+20150530/mediawiki.restore.txt is uptodate
+20150530/root@washington.cn.atrenta.com.CI.portland.txt is uptodate
+20150530/root@washington.cn.atrenta.com.cvs.portland.txt is uptodate
+20150530/root@washington.cn.atrenta.com.data.portland.txt is uptodate
+20150530/root@washington.cn.atrenta.com.doc.portland.txt is uptodate
+20150530/root@washington.cn.atrenta.com.exe.portland.txt is uptodate
+20150530/root@washington.cn.atrenta.com.git.portland.txt is uptodate
+20150530/root@washington.cn.atrenta.com.infra.portland.txt is uptodate
+20150530/root@washington.cn.atrenta.com.license.portland.txt is uptodate
+20150530/root@washington.cn.atrenta.com.mantis.portland.txt is uptodate
+20150530/root@washington.cn.atrenta.com.ndbs.portland.txt is uptodate
+20150530/root@washington.cn.atrenta.com.python279.portland.txt is uptodate
+20150530/root@washington.cn.atrenta.com.qmerge.portland.txt is uptodate
+20150530/root@washington.cn.atrenta.com.release.portland.txt is uptodate
+20150530/root@washington.cn.atrenta.com.snapshot.portland.txt is uptodate
+20150530/root@washington.cn.atrenta.com.tars.portland.txt is uptodate
+20150530/root@washington.cn.atrenta.com.verific.portland.txt is uptodate
+20150530/summary.washington.txt is uptodate
+20150531/heng@wushi.atrenta.com.CI.portland.txt is uptodate
+20150531/heng@wushi.atrenta.com.bs2test.portland.txt is uptodate
+20150531/heng@wushi.atrenta.com.cvs.portland.txt is uptodate
+20150531/heng@wushi.atrenta.com.git.portland.txt is uptodate
+20150531/heng@wushi.atrenta.com.infra.portland.txt is uptodate
+20150531/heng@wushi.atrenta.com.license.portland.txt is uptodate
+20150531/heng@wushi.atrenta.com.mantis.portland.txt is uptodate
+20150531/heng@wushi.atrenta.com.ndbs.portland.txt is uptodate
+20150531/heng@wushi.atrenta.com.python279.portland.txt is uptodate
+20150531/heng@wushi.atrenta.com.release.portland.txt is uptodate
+20150531/heng@wushi.atrenta.com.verific.portland.txt is uptodate
+20150531/mail.log is uptodate
+20150531/mantis.backup.txt is uptodate
+20150531/mantis.restore.txt is uptodate
+20150531/mediawiki.backup.txt is uptodate
+20150531/mediawiki.restore.txt is uptodate
+20150531/root@washington.cn.atrenta.com.CI.portland.txt is uptodate
+20150531/root@washington.cn.atrenta.com.cvs.portland.txt is uptodate
+20150531/root@washington.cn.atrenta.com.data.portland.txt is uptodate
+20150531/root@washington.cn.atrenta.com.doc.portland.txt is uptodate
+20150531/root@washington.cn.atrenta.com.exe.portland.txt is uptodate
+20150531/root@washington.cn.atrenta.com.git.portland.txt is uptodate
+20150531/root@washington.cn.atrenta.com.infra.portland.txt is uptodate
+20150531/root@washington.cn.atrenta.com.license.portland.txt is uptodate
+20150531/root@washington.cn.atrenta.com.mantis.portland.txt is uptodate
+20150531/root@washington.cn.atrenta.com.ndbs.portland.txt is uptodate
+20150531/root@washington.cn.atrenta.com.python279.portland.txt is uptodate
+20150531/root@washington.cn.atrenta.com.qmerge.portland.txt is uptodate
+20150531/root@washington.cn.atrenta.com.release.portland.txt is uptodate
+20150531/root@washington.cn.atrenta.com.snapshot.portland.txt is uptodate
+20150531/root@washington.cn.atrenta.com.tars.portland.txt is uptodate
+20150531/root@washington.cn.atrenta.com.verific.portland.txt is uptodate
+20150531/summary.washington.txt is uptodate
+20150601/heng@wushi.atrenta.com.CI.portland.txt is uptodate
+20150601/heng@wushi.atrenta.com.bs2test.portland.txt is uptodate
+20150601/heng@wushi.atrenta.com.cvs.portland.txt is uptodate
+20150601/heng@wushi.atrenta.com.git.portland.txt is uptodate
+20150601/heng@wushi.atrenta.com.infra.portland.txt is uptodate
+20150601/heng@wushi.atrenta.com.license.portland.txt is uptodate
+20150601/heng@wushi.atrenta.com.mantis.portland.txt is uptodate
+20150601/heng@wushi.atrenta.com.ndbs.portland.txt is uptodate
+20150601/heng@wushi.atrenta.com.python279.portland.txt is uptodate
+20150601/heng@wushi.atrenta.com.release.portland.txt is uptodate
+20150601/heng@wushi.atrenta.com.verific.portland.txt is uptodate
+20150601/mail.log is uptodate
+20150601/mantis.backup.txt is uptodate
+20150601/mantis.restore.txt is uptodate
+20150601/mediawiki.backup.txt is uptodate
+20150601/mediawiki.restore.txt is uptodate
+20150601/root@washington.cn.atrenta.com.CI.portland.txt is uptodate
+20150601/root@washington.cn.atrenta.com.cvs.portland.txt is uptodate
+20150601/root@washington.cn.atrenta.com.data.portland.txt is uptodate
+20150601/root@washington.cn.atrenta.com.doc.portland.txt is uptodate
+20150601/root@washington.cn.atrenta.com.exe.portland.txt is uptodate
+20150601/root@washington.cn.atrenta.com.git.portland.txt is uptodate
+20150601/root@washington.cn.atrenta.com.infra.portland.txt is uptodate
+20150601/root@washington.cn.atrenta.com.license.portland.txt is uptodate
+20150601/root@washington.cn.atrenta.com.mantis.portland.txt is uptodate
+20150601/root@washington.cn.atrenta.com.ndbs.portland.txt is uptodate
+20150601/root@washington.cn.atrenta.com.python279.portland.txt is uptodate
+20150601/root@washington.cn.atrenta.com.qmerge.portland.txt is uptodate
+20150601/root@washington.cn.atrenta.com.release.portland.txt is uptodate
+20150601/root@washington.cn.atrenta.com.snapshot.portland.txt is uptodate
+20150601/root@washington.cn.atrenta.com.tars.portland.txt is uptodate
+20150601/root@washington.cn.atrenta.com.verific.portland.txt is uptodate
+20150601/summary.washington.txt is uptodate
+20150602/
+20150602/datasync.txt
+         700   0%    0.00kB/s    0:00:00         76780 100%   36.28MB/s    0:00:00 (xfer#1, to-check=61/555)
+20150602/heng@wushi.atrenta.com.CI.portland.txt is uptodate
+20150602/heng@wushi.atrenta.com.bs2test.portland.txt is uptodate
+20150602/heng@wushi.atrenta.com.cvs.portland.txt is uptodate
+20150602/heng@wushi.atrenta.com.git.portland.txt is uptodate
+20150602/heng@wushi.atrenta.com.infra.portland.txt is uptodate
+20150602/heng@wushi.atrenta.com.license.portland.txt is uptodate
+20150602/heng@wushi.atrenta.com.mantis.portland.txt is uptodate
+20150602/heng@wushi.atrenta.com.ndbs.portland.txt is uptodate
+20150602/heng@wushi.atrenta.com.python279.portland.txt is uptodate
+20150602/heng@wushi.atrenta.com.release.portland.txt is uptodate
+20150602/heng@wushi.atrenta.com.verific.portland.txt is uptodate
+20150602/mail.log
+       21925 100%  669.10kB/s    0:00:00         21925 100%  669.10kB/s    0:00:00 (xfer#2, to-check=49/555)
+20150602/mantis.backup.txt is uptodate
+20150602/mantis.restore.txt is uptodate
+20150602/mediawiki.backup.txt is uptodate
+20150602/mediawiki.restore.txt is uptodate
+20150602/root@washington.cn.atrenta.com.CI.portland.txt is uptodate
+20150602/root@washington.cn.atrenta.com.cvs.portland.txt is uptodate
+20150602/root@washington.cn.atrenta.com.data.portland.txt is uptodate
+20150602/root@washington.cn.atrenta.com.doc.portland.txt is uptodate
+20150602/root@washington.cn.atrenta.com.exe.portland.txt is uptodate
+20150602/root@washington.cn.atrenta.com.git.portland.txt is uptodate
+20150602/root@washington.cn.atrenta.com.infra.portland.txt is uptodate
+20150602/root@washington.cn.atrenta.com.license.portland.txt is uptodate
+20150602/root@washington.cn.atrenta.com.mantis.portland.txt is uptodate
+20150602/root@washington.cn.atrenta.com.ndbs.portland.txt is uptodate
+20150602/root@washington.cn.atrenta.com.python279.portland.txt is uptodate
+20150602/root@washington.cn.atrenta.com.qmerge.portland.txt is uptodate
+20150602/root@washington.cn.atrenta.com.release.portland.txt is uptodate
+20150602/root@washington.cn.atrenta.com.snapshot.portland.txt is uptodate
+20150602/root@washington.cn.atrenta.com.tars.portland.txt is uptodate
+20150602/root@washington.cn.atrenta.com.verific.portland.txt is uptodate
+20150602/summary.washington.txt is uptodate
+20150603/
+20150603/heng@wushi.atrenta.com.CI.portland.txt
+       32768   2%  941.18kB/s    0:00:01       1419307 100%   20.20MB/s    0:00:00 (xfer#3, to-check=27/555)
+20150603/heng@wushi.atrenta.com.bs2test.portland.txt
+       32768   1%  470.59kB/s    0:00:04       2299654 100%   15.02MB/s    0:00:00 (xfer#4, to-check=26/555)
+20150603/heng@wushi.atrenta.com.cvs.portland.txt
+       32768   0%  219.18kB/s    0:00:16       3575421 100%   14.39MB/s    0:00:00 (xfer#5, to-check=25/555)
+20150603/heng@wushi.atrenta.com.git.portland.txt
+       32768   0%  135.02kB/s    0:00:45       6165173 100%   11.46MB/s    0:00:00 (xfer#6, to-check=24/555)
+20150603/heng@wushi.atrenta.com.infra.portland.txt
+        3050 100%    5.81kB/s    0:00:00          3050 100%    5.81kB/s    0:00:00 (xfer#7, to-check=23/555)
+20150603/heng@wushi.atrenta.com.license.portland.txt
+        8727 100%   16.58kB/s    0:00:00          8727 100%   16.58kB/s    0:00:00 (xfer#8, to-check=22/555)
+20150603/heng@wushi.atrenta.com.mantis.portland.txt
+       32768   5%   62.26kB/s    0:00:08        574982 100%    1.04MB/s    0:00:00 (xfer#9, to-check=21/555)
+20150603/heng@wushi.atrenta.com.ndbs.portland.txt
+       32768  40%   60.38kB/s    0:00:00         79935 100%  147.01kB/s    0:00:00 (xfer#10, to-check=20/555)
+20150603/heng@wushi.atrenta.com.python279.portland.txt
+       32768  14%   60.26kB/s    0:00:03        224208 100%  366.76kB/s    0:00:00 (xfer#11, to-check=19/555)
+20150603/heng@wushi.atrenta.com.release.portland.txt
+       15276 100%   24.95kB/s    0:00:00         15276 100%   24.95kB/s    0:00:00 (xfer#12, to-check=18/555)
+20150603/heng@wushi.atrenta.com.verific.portland.txt
+        6224 100%   10.16kB/s    0:00:00          6224 100%   10.16kB/s    0:00:00 (xfer#13, to-check=17/555)
+20150603/root@washington.cn.atrenta.com.CI.portland.txt
+       32768   2%   53.42kB/s    0:00:25       1419187 100%    1.90MB/s    0:00:00 (xfer#14, to-check=16/555)
+20150603/root@washington.cn.atrenta.com.cvs.portland.txt
+       32768   0%   44.94kB/s    0:01:18       3575429 100%    3.64MB/s    0:00:00 (xfer#15, to-check=15/555)
+20150603/root@washington.cn.atrenta.com.data.portland.txt
+       32768  92%   34.12kB/s    0:00:00         35523 100%   36.98kB/s    0:00:00 (xfer#16, to-check=14/555)
+20150603/root@washington.cn.atrenta.com.doc.portland.txt
+        1592 100%    1.66kB/s    0:00:00          1592 100%    1.66kB/s    0:00:00 (xfer#17, to-check=13/555)
+20150603/root@washington.cn.atrenta.com.exe.portland.txt
+       32768  11%   34.08kB/s    0:00:07        279881 100%  289.23kB/s    0:00:00 (xfer#18, to-check=12/555)
+20150603/root@washington.cn.atrenta.com.git.portland.txt
+       32768   0%   33.83kB/s    0:03:01        360448   5%  337.16kB/s    0:00:17       3997696  64%    1.86MB/s    0:00:01       6165164 100%    2.25MB/s    0:00:02 (xfer#19, to-check=11/555)
+20150603/root@washington.cn.atrenta.com.infra.portland.txt
+        3060 100%    5.29kB/s    0:00:00          3060 100%    5.29kB/s    0:00:00 (xfer#20, to-check=10/555)
+20150603/root@washington.cn.atrenta.com.license.portland.txt
+        8732 100%   15.09kB/s    0:00:00          8732 100%   15.09kB/s    0:00:00 (xfer#21, to-check=9/555)
+20150603/root@washington.cn.atrenta.com.mantis.portland.txt
+       32768   0%   56.64kB/s    0:01:11       2326528  56%    2.21MB/s    0:00:00       4083080 100%    3.15MB/s    0:00:01 (xfer#22, to-check=8/555)
+20150603/root@washington.cn.atrenta.com.ndbs.portland.txt
+       32768  40%  135.59kB/s    0:00:00         79945 100%  329.41kB/s    0:00:00 (xfer#23, to-check=7/555)
+20150603/root@washington.cn.atrenta.com.python279.portland.txt
+       32768  14%  134.45kB/s    0:00:01        224217 100%  901.08kB/s    0:00:00 (xfer#24, to-check=6/555)
+20150603/root@washington.cn.atrenta.com.qmerge.portland.txt
+       19422 100%   77.73kB/s    0:00:00         19422 100%   77.73kB/s    0:00:00 (xfer#25, to-check=5/555)
+20150603/root@washington.cn.atrenta.com.release.portland.txt
+       32768  11%  130.61kB/s    0:00:02        297345 100%    1.13MB/s    0:00:00 (xfer#26, to-check=4/555)
+20150603/root@washington.cn.atrenta.com.snapshot.portland.txt
+       32768   1%  127.49kB/s    0:00:23       3062741 100%    6.25MB/s    0:00:00 (xfer#27, to-check=3/555)
+20150603/root@washington.cn.atrenta.com.tars.portland.txt
+       32768   3%   68.52kB/s    0:00:13        978296 100%    1.93MB/s    0:00:00 (xfer#28, to-check=2/555)
+20150603/root@washington.cn.atrenta.com.verific.portland.txt
+        6233 100%   12.60kB/s    0:00:00          6233 100%   12.60kB/s    0:00:00 (xfer#29, to-check=1/555)
+20150603/summary.washington.txt
+        2929 100%    5.92kB/s    0:00:00          2929 100%    5.92kB/s    0:00:00 (xfer#30, to-check=0/555)
+total: matches=54  hash_hits=86  false_alarms=1 data=34675638
+
+sent 6200519 bytes  received 2509 bytes  954312.00 bytes/sec
+total size is 741889606  speedup is 119.60

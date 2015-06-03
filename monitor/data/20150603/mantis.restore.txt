@@ -1,0 +1,7 @@
+washington.cn.atrenta.com: start at 2015-06-03 00:33:16 on washington.cn.atrenta.com
+washington.cn.atrenta.com: restore '/n/rsync/rsync/mantis/mysql.all' ...
+washington.cn.atrenta.com: restore '/n/rsync/rsync/mantis/mysql.bugtracker' ...
+washington.cn.atrenta.com: restore done.
+washington.cn.atrenta.com: end   at 2015-06-03 00:36:24 on washington.cn.atrenta.com
+washington.cn.atrenta.com:    TIME_CONSUME IS: 188 SECONDS.
+washington.cn.atrenta.com:  please access http://washington.cn.atrenta.com/mantis_backup/ for detail.

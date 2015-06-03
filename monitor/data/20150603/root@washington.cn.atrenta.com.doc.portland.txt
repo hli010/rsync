@@ -1,0 +1,43 @@
+opening connection using: ssh -l root washington.cn.atrenta.com rsync --server -vvlogDtprze.iLsf --delete --partial . /nextop/n/archive/bs1/doc/ 
+sending incremental file list
+delta-transmission enabled
+BugScopeGUITutorial1.0.0_heng.docx is uptodate
+BugScopeGUITutorial1.0.0_heng.pdf is uptodate
+BugScopeGUITutorial1.0.1.docx is uptodate
+BugScopeGUITutorial1.0.1.pdf is uptodate
+NextopScriptFAQ.docx is uptodate
+NextopScriptFAQ.pdf is uptodate
+NextopScriptReferenceGuide.docx is uptodate
+NextopScriptReferenceGuide.pdf is uptodate
+UserGuide-VHDL.pdf is uptodate
+UserGuide3.0.11.docx is uptodate
+UserGuide3.0.12.docx is uptodate
+UserGuide3.0.12.pdf is uptodate
+UserGuide3.0.13.docx is uptodate
+UserGuide3.0.13.pdf is uptodate
+UserGuide3.0.14.docx is uptodate
+UserGuide3.0.14.pdf is uptodate
+UserGuide3.0.15.docx is uptodate
+UserGuide3.0.15.pdf is uptodate
+UserGuide3.0.16.docx is uptodate
+UserGuide3.0.16.pdf is uptodate
+UserGuide3.0.17.docx is uptodate
+UserGuide3.0.17.pdf is uptodate
+UserGuide3.0.18.docx is uptodate
+UserGuide3.0.18.pdf is uptodate
+UserGuide3.0.19.docx is uptodate
+UserGuide3.0.19.pdf is uptodate
+UserGuide3.0.20.docx is uptodate
+UserGuide3.0.20.pdf is uptodate
+UserGuide3.0.21.docx is uptodate
+UserGuide3.0.21.pdf is uptodate
+UserGuide3.0.22.docx is uptodate
+UserGuide3.0.22.pdf is uptodate
+UserGuide3.0.23.docx is uptodate
+UserGuide3.0.23.pdf is uptodate
+UserGuide3.0.24.docx is uptodate
+UserGuide3.0.24.pdf is uptodate
+total: matches=0  hash_hits=0  false_alarms=0 data=0
+
+sent 1011 bytes  received 123 bytes  756.00 bytes/sec
+total size is 36872862  speedup is 32515.75

@@ -1,0 +1,227 @@
+opening connection using: ssh -l heng wushi.atrenta.com rsync --server -vvlogDtprze.iLsf --delete --partial . /nextop/nxt2/release/ 
+sending incremental file list
+delta-transmission enabled
+./
+BugScope-5_4_0.md5sum.txt is uptodate
+BugScope-5_4_0.tar.gz is uptodate
+BugScope-5_4_1.tar.gz is uptodate
+BugScope-5_4_1_1.tar.gz is uptodate
+BugScope-5_4_1_2.tar.gz is uptodate
+BugScope-5_4_1_2_qualcomm.tar.gz is uptodate
+BugScope-5_4_1_3.tar.gz
+        7456   0%    0.00kB/s    0:00:00      57828176  41%   46.34MB/s    0:00:01      58319696  41%   23.49MB/s    0:00:03      58843984  42%   16.02MB/s    0:00:04      59368272  42%   12.19MB/s    0:00:06      59892560  43%  440.08kB/s    0:02:59      60416848  43%  453.10kB/s    0:02:53      60941136  43%  454.71kB/s    0:02:51      61524439  44%  470.64kB/s    0:02:44      62048727  44%  472.54kB/s    0:02:42      62573015  45%  474.56kB/s    0:02:40      63097303  45%  477.25kB/s    0:02:38      63716642  45%  487.10kB/s    0:02:34      64240930  46%  488.88kB/s    0:02:32      64765218  46%  488.55kB/s    0:02:31      65337508  47%  500.05kB/s    0:02:27      65730724  47%  322.54kB/s    0:03:46      66709289  48%  388.29kB/s    0:03:05      67823401  48%  488.47kB/s    0:02:25      68375841  49%  485.14kB/s    0:02:25      68900129  49%  703.12kB/s    0:01:39      69547150  50%  636.80kB/s    0:01:48      70104206  50%  488.67kB/s    0:02:20      70661262  50%  481.31kB/s    0:02:21      71295971  51%  492.05kB/s    0:02:17      71853027  51%  469.72kB/s    0:02:22      72442851  52%  476.49kB/s    0:02:19      72999907  52%  471.96kB/s    0:02:19      73556963  52%  458.57kB/s    0:02:22      74114019  53%  458.76kB/s    0:02:21      74703843  53%  459.33kB/s    0:02:19      75260899  54%  458.95kB/s    0:02:18      75850723  54%  464.44kB/s    0:02:15      76407779  55%  465.99kB/s    0:02:14      76866531  55%  318.94kB/s    0:03:14      77751267  55%  371.41kB/s    0:02:44      78865379  56%  460.29kB/s    0:02:10      79389667  57%  460.83kB/s    0:02:09      79913955  57%  676.36kB/s    0:01:27      80503779  57%  605.41kB/s    0:01:36      81028067  58%  472.59kB/s    0:02:02      81322979  58%  314.04kB/s    0:03:03      82076643  59%  355.68kB/s    0:02:39      83321827  59%  462.21kB/s    0:02:00      83780579  60%  454.59kB/s    0:02:01      84304867  60%  664.99kB/s    0:01:22      84796387  61%  610.01kB/s    0:01:28      85287907  61%  454.87kB/s    0:01:57      85844963  61%  462.60kB/s    0:01:54      86434787  62%  470.27kB/s    0:01:51      86991843  62%  463.07kB/s    0:01:52      87548899  63%  465.92kB/s    0:01:50      88105955  63%  463.48kB/s    0:01:49      88695779  63%  460.10kB/s    0:01:49      89252835  64%  460.38kB/s    0:01:47      89809891  64%  460.58kB/s    0:01:46      90268643  64%  321.02kB/s    0:02:31      91087843  65%  362.62kB/s    0:02:11  Write failed: Broken pipe
+
+rsync: writefd_unbuffered failed to write 4 bytes to socket [sender]: Broken pipe (32)
+BugScope-ReferenceDesign-5_4_0.md5sum.txt is uptodate
+BugScope-ReferenceDesign-5_4_0.tar.gz is uptodate
+BugScope-ReferenceDesign-5_4_1.tar.gz is uptodate
+BugScope-ReferenceDesign-5_4_1_1.tar.gz is uptodate
+BugScope-ReferenceDesign-5_4_1_2.tar.gz is uptodate
+BugScope_5_4_1_2_qlogic.tar.gz is uptodate
+bugscope2.0-release-20140801.tar.gz is uptodate
+bugscope2.0-release-20140929.tar.gz is uptodate
+bugscope2.0-release-20141001.tar.gz is uptodate
+bugscope2.0-release-20141101.tar.gz is uptodate
+bugscope2.0-release-20141102.tar.gz is uptodate
+bugscope2.0-release-20141103.tar.gz is uptodate
+bugscope2.0-release-20141104.tar.gz is uptodate
+bugscope2.0-release-20141105.tar.gz is uptodate
+bugscope2.0-release-20141106.tar.gz is uptodate
+verifier-20141101-beta.tar.gz is uptodate
+verifier-20141102-beta.tar.gz is uptodate
+cdc-verifier/verifier-release-20141001.tar.gz is uptodate
+cdc-verifier/verifier-release-20141101.tar.gz is uptodate
+exe/BugScope-5_4_0/bugscope_exproj is uptodate
+exe/BugScope-5_4_0/bugscope_gui is uptodate
+exe/BugScope-5_4_0/bugscope_mkproj is uptodate
+exe/BugScope-5_4_0/bugscope_print is uptodate
+exe/BugScope-5_4_0/bugscope_run is uptodate
+exe/BugScope-5_4_0/bugscopetest is uptodate
+exe/BugScope-5_4_0/config.cfg is uptodate
+exe/BugScope-5_4_0/bin/BugScopeRun.sh is uptodate
+exe/BugScope-5_4_0/bin/bs20remotewrapper is uptodate
+exe/BugScope-5_4_0/bin/bs20remotewrapper.exe is uptodate
+exe/BugScope-5_4_0/bin/bs20remotewrapper64.exe is uptodate
+exe/BugScope-5_4_0/bin/bugscope is uptodate
+exe/BugScope-5_4_0/bin/bugscope.exe is uptodate
+exe/BugScope-5_4_0/bin/bugscope64.exe is uptodate
+exe/BugScope-5_4_0/bin/bugscope_exproj.exe is uptodate
+exe/BugScope-5_4_0/bin/bugscope_exproj64.exe is uptodate
+exe/BugScope-5_4_0/bin/bugscope_gui.exe is uptodate
+exe/BugScope-5_4_0/bin/bugscope_gui64.exe is uptodate
+exe/BugScope-5_4_0/bin/bugscope_mkproj.exe is uptodate
+exe/BugScope-5_4_0/bin/bugscope_mkproj64.exe is uptodate
+exe/BugScope-5_4_0/bin/bugscope_print.exe is uptodate
+exe/BugScope-5_4_0/bin/bugscope_print64.exe is uptodate
+exe/BugScope-5_4_0/bin/bugscope_run.exe is uptodate
+exe/BugScope-5_4_0/bin/bugscope_run64.exe is uptodate
+exe/BugScope-5_4_0/bin/check_port is uptodate
+exe/BugScope-5_4_0/bin/check_port.exe is uptodate
+exe/BugScope-5_4_0/bin/check_port64.exe is uptodate
+exe/BugScope-5_4_0/bin/firefoxwrapper is uptodate
+exe/BugScope-5_4_0/bin/firefoxwrapper.exe is uptodate
+exe/BugScope-5_4_0/bin/firefoxwrapper64.exe is uptodate
+exe/BugScope-5_4_0/bin/formal is uptodate
+exe/BugScope-5_4_0/bin/formal.exe is uptodate
+exe/BugScope-5_4_0/bin/formal64.exe is uptodate
+exe/BugScope-5_4_0/bin/history is uptodate
+exe/BugScope-5_4_0/bin/history.exe is uptodate
+exe/BugScope-5_4_0/bin/history64.exe is uptodate
+exe/BugScope-5_4_0/bin/incrmerger is uptodate
+exe/BugScope-5_4_0/bin/incrmerger.exe is uptodate
+exe/BugScope-5_4_0/bin/incrmerger64.exe is uptodate
+exe/BugScope-5_4_0/bin/instinfo is uptodate
+exe/BugScope-5_4_0/bin/instinfo.exe is uptodate
+exe/BugScope-5_4_0/bin/instinfo64.exe is uptodate
+exe/BugScope-5_4_0/bin/ndbHier is uptodate
+exe/BugScope-5_4_0/bin/ndbHier.exe is uptodate
+exe/BugScope-5_4_0/bin/ndbHier64.exe is uptodate
+exe/BugScope-5_4_0/bin/progmerger is uptodate
+exe/BugScope-5_4_0/bin/progmerger.exe is uptodate
+exe/BugScope-5_4_0/bin/progmerger64.exe is uptodate
+exe/BugScope-5_4_0/bin/progrr is uptodate
+exe/BugScope-5_4_0/bin/progrr.exe is uptodate
+exe/BugScope-5_4_0/bin/progrr64.exe is uptodate
+exe/BugScope-5_4_0/bin/sigsextractor is uptodate
+exe/BugScope-5_4_0/bin/sigsextractor.exe is uptodate
+exe/BugScope-5_4_0/bin/sigsextractor64.exe is uptodate
+exe/BugScope-5_4_0/bin/simloganalyzer is uptodate
+exe/BugScope-5_4_0/bin/simloganalyzer.exe is uptodate
+exe/BugScope-5_4_0/bin/simloganalyzer64.exe is uptodate
+exe/BugScope-5_4_0/bin/verifier is uptodate
+exe/BugScope-5_4_0/bin/verifier.exe is uptodate
+exe/BugScope-5_4_0/bin/verifier64.exe is uptodate
+exe/BugScope-5_4_0/bin/waveformDumper is uptodate
+exe/BugScope-5_4_0/bin/waveformDumper.exe is uptodate
+exe/BugScope-5_4_0/bin/waveformDumper64.exe is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/_bisect.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/_codecs_cn.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/_codecs_hk.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/_codecs_iso2022.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/_codecs_jp.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/_codecs_kr.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/_codecs_tw.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/_collections.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/_ctypes.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/_functools.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/_hashlib.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/_heapq.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/_io.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/_locale.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/_multibytecodec.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/_multiprocessing.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/_random.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/_socket.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/_struct.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/array.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/binascii.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20remotewrapper is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20remotewrapper.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bugscope_exproj is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bugscope_exproj.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bugscope_gui is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bugscope_gui.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bugscope_mkproj is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bugscope_mkproj.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bugscope_print is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bugscope_print.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bugscope_run is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bugscope_run.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/cPickle.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/cStringIO.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/check_port is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/check_port.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/datetime.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/fcntl.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/firefoxwrapper is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/firefoxwrapper.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/grp.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/itertools.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/libpython2.7.so.1.0 is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/libz.so.1 is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/math.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/mmap.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/operator.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/pyexpat.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/resource.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/select.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/strop.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/termios.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/time.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/unicodedata.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/zlib.so is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/__init__.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/appopt.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/bsargparse.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/bsconfig.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/bserrno.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/configure.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/env.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/envconfigparser.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/error.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/exporter.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/exporterparser.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/filelock.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/flow.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/flowconfig.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/flowparser.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/helper.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/history.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/hookup.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/instinfo.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/listfile.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/log.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/mkproj.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/mkprojparser.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/ndblist.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/options.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/parserutil.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/printer.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/printerparser.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/progrepoman.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/projstate.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/propextractor.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/rtlcommon.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/simloganalyzer.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/simoptgenerator.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/stage.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/status.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/ucfg.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/webguiparser.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/bsentry/__init__.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/bsentry/argsman.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/bsentry/entry.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/bsentry/propman.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/bsentry/repoman.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/farm/__init__.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/farm/common.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/farm/localfarm.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/farm/remotefarm.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/farm/remotewrapper.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/farm/remotewrapperparser.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/suggestion/__init__.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/suggestion/common.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/suggestion/mkproj.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/suggestion/nextstep.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/suggestion/run.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/suggestion/webgui.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/webgui/__init__.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/webgui/cache.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/webgui/clsadp.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/webgui/common.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/webgui/legend.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/webgui/report.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/webgui/rpcfunc.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/webgui/rptresmgr.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/webgui/xmlbase.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/webgui/xmlrpcbackend.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/webgui/xmlrpcserver.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/webgui/browseradapter/__init__.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/webgui/browseradapter/base.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/webgui/browseradapter/error.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/webgui/browseradapter/firefox.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/bs20/webgui/browseradapter/general.py is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/include/python2.7/pyconfig.h is uptodate
+exe/BugScope-5_4_0/bin/bs20flow/lib/python2.7/config/Makefile is uptodate
+rsync: connection unexpectedly closed (52290 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(605) [sender=3.0.9]

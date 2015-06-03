@@ -1,0 +1,34 @@
+==================== DATA SYNC ON [20150603] ====================
+START AT: 2015-06-03 00:03:01 on portland.cn.atrenta.com
+0: [/n/dev/git] ===> [heng@wushi.atrenta.com:/nextop/nxtdev/src/git/repositories] SIZE: 2.9G TIME: 178s
+1: [/n/archive/cvs] ===> [heng@wushi.atrenta.com:/nextop/nxtdev/src/cvs] SIZE: 8.1G TIME: 85s
+2: [/n/release] ===> [heng@wushi.atrenta.com:/nextop/nxt2/release] SIZE: 3.6G TIME: 83s
+3: [/n/mantis] ===> [heng@wushi.atrenta.com:/nextop/nxt2/mantis] SIZE: 4.8G TIME: 1004s
+4: [/n/license] ===> [heng@wushi.atrenta.com:/nextop/nxt2/license] SIZE: 330M TIME: 4s
+5: [/n/dev/script/CI] ===> [heng@wushi.atrenta.com:/nextop/nxt2/script/CI] SIZE: 803M TIME: 29s
+6: [/n/dev/script/infra] ===> [heng@wushi.atrenta.com:/nextop/nxt2/script/infra] SIZE: 1.3M TIME: 4s
+7: [/n/dev/tars/ndbs] ===> [heng@wushi.atrenta.com:/nextop/nxt2/tars/ndbs] SIZE: 7.7G TIME: 5s
+8: [/n/dev/tars/3party/python279] ===> [heng@wushi.atrenta.com:/nextop/nxt2/tars/3party/python279] SIZE: 94M TIME: 7s
+9: [/n/dev/tars/3party/verific] ===> [heng@wushi.atrenta.com:/nextop/nxt2/tars/3party/verific] SIZE: 918M TIME: 4s
+10: [/n/designbank/bs2test] ===> [heng@wushi.atrenta.com:/nextop/nxtdesigns/bs2test] SIZE: 11G TIME: 257s
+11: [/n/archive/bs1/doc] ===> [root@washington.cn.atrenta.com:/nextop/n/archive/bs1/doc] SIZE: 36M TIME: 2s
+12: [/n/archive/bs1/qmerge] ===> [root@washington.cn.atrenta.com:/nextop/n/archive/bs1/qmerge] SIZE: 37M TIME: 1s
+13: [/n/archive/bs1/mantis] ===> [root@washington.cn.atrenta.com:/nextop/n/archive/bs1/mantis] SIZE: 50G TIME: 80s
+14: [/n/archive/bs1/snapshot] ===> [root@washington.cn.atrenta.com:/nextop/n/archive/bs1/snapshot] SIZE: 7.0G TIME: 8s
+15: [/n/archive/bs1/tars] ===> [root@washington.cn.atrenta.com:/nextop/n/archive/bs1/tars] SIZE: 6.3G TIME: 5s
+16: [/n/archive/cvs] ===> [root@washington.cn.atrenta.com:/nextop/n/archive/cvs] SIZE: 8.1G TIME: 8s
+17: [/n/dev/git] ===> [root@washington.cn.atrenta.com:/nextop/n/dev/git] SIZE: 2.9G TIME: 10s
+18: [/n/dev/script/CI] ===> [root@washington.cn.atrenta.com:/nextop/n/dev/script/CI] SIZE: 803M TIME: 8s
+19: [/n/dev/tars/3party/python279] ===> [root@washington.cn.atrenta.com:/nextop/n/dev/tars/3party/python279] SIZE: 94M TIME: 1s
+20: [/n/dev/tars/3party/verific] ===> [root@washington.cn.atrenta.com:/nextop/n/dev/tars/3party/verific] SIZE: 918M TIME: 1s
+21: [/n/dev/tars/ndbs] ===> [root@washington.cn.atrenta.com:/nextop/n/dev/tars/ndbs] SIZE: 7.7G TIME: 1s
+22: [/n/license] ===> [root@washington.cn.atrenta.com:/nextop/n/license] SIZE: 330M TIME: 2s
+23: [/n/mantis] ===> [root@washington.cn.atrenta.com:/nextop/n/mantis] SIZE: 4.8G TIME: 8s
+24: [/n/release] ===> [root@washington.cn.atrenta.com:/nextop/n/release] SIZE: 3.6G TIME: 2s
+25: [/n/release/exe] ===> [root@washington.cn.atrenta.com:/nextop/n/release/exe] SIZE: 1.6G TIME: 1s
+26: [/n/dev/script/infra] ===> [root@washington.cn.atrenta.com:/nextop/n/dev/script/infra] SIZE: 1.3M TIME: 2s
+27: [/var/www/ds/data] ===> [root@washington.cn.atrenta.com:/var/www/ds/data] SIZE: 709M TIME: 7s
+END   AT: 2015-06-03 00:33:09 on portland.cn.atrenta.com
+   TIME CONSUME: 1808 seconds.
+==================== SYNC END ==============================
+please access: http://portland.cn.atrenta.com/ds//index.php?date=20150603 for detail.
